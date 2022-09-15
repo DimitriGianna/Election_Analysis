@@ -26,7 +26,10 @@ The analysis of the election shows that:
     - Raymon Anthony Doanne received 3.1% of the vote and 11,606 votes.
 - The winner of the election was:
 -   - Diana DeGette received 73.8% of the vote and 272,892 votes.
+
 [![name](https://github.com/DimitriGianna/Election_Analysis/blob/main/Resources/Election_Results.png?raw=true)
+
 ## Challenge Overview and Summary
 The script used to obtain the above results can be modified  to be used in any election. For example, the modification shown below was used in this analysis to determine the number of votes per county using the same format as the number of votes per candidate. Similarly, a modificatation could be made that would work in a federal or municipal election, in which case we would change the counties to states or ridings respectively.
+
 [![name](https://github.com/DimitriGianna/Election_Analysis/blob/main/Resources/Script_Modification.png?raw=true)
